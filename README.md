@@ -1,2 +1,0 @@
-# EC-Calculator
-Basic calculator
